@@ -1,0 +1,35 @@
+traveler_name: Volodymyr SAVCHENKO
+travel_purpose: 13th IACHEC meeting
+destination: Tenuta I Ciclamini (Avigliano Umbro, Italy)
+
+event_dates: 9-12 April 2018
+departure_date: 08      04      2018
+departure_hour: 12\:20
+return_date: 11      04      2018
+return_hour: 18\:20
+unproffesional_days: 0
+
+transport_currency: ""
+hotel_currency: ""
+meal_number: 0
+taxis_currency: ""
+bus_train_ug_currency: ""
+conference_fee_currency: ""
+
+transport_amount: 0 USD
+hotel_amount:   0 EUR
+taxis_amount: 0 EUR
+bus_train_ug_amount: 0 EUR
+conference_fee_amount: 500 EUR
+
+transport_chf: ""
+hotel_chf:  ""
+meal_x25chf: 0
+taxis_chf: ""
+bus_train_ug_chf: ""
+conference_fee_chf: ""
+
+
+banquet_included: "X"
+banquet_not_included: ""
+
