@@ -1,5 +1,5 @@
 conf?=iachec
 
 all: conference_data_$(conf).yaml form_map.yaml
-	python isdc-reimbursement-form//fill_form.py -i Form_reimbursement.pdf -o form_filled_$(conf).pdf -d conference_data_$(conf).yaml -s 2
+	python fill_form.py -i Form_reimbursement.pdf -o form_filled_$(conf).pdf -d conference_data_$(conf).yaml -s 2
 
